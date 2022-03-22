@@ -1,7 +1,7 @@
 # quanlyphongtro
 
 $ docker-compose up
-Run Composer install
+#Run Composer install
 
 $ docker exec app_admin -ti bash
 
